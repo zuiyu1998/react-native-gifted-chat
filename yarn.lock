@@ -1762,10 +1762,10 @@
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@types/react-native-communications/-/react-native-communications-2.2.1.tgz#fe067d9d226090cea34a62de8c6ac71f92caeeb9"
 
-"@types/react-native@^0.61.5":
-  version "0.61.10"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.61.10.tgz#d010b9093322bc781151638f74124f58fc87cc90"
-  integrity sha512-z+RWEFfdwHnOLpq70DO//4mjyNqoZypdR3uBqpBB82t2HJg2YbY4j6XIow7sFqeO/r8XibgV9UFEVG2tYIRlSA==
+"@types/react-native@^0.61.17":
+  version "0.61.17"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.61.17.tgz#5994af207c2339d498ebd8bd427c68074ce9e744"
+  integrity sha512-12qKZz/ob56lglVRAIDgqDchcyO0g5lZtrjxCTQDNJv8HFHZMcZx78+/CjKsu3LGs6KbajkZ1+0htqiaxr5JVA==
   dependencies:
     "@types/react" "*"
 
